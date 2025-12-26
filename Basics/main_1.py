@@ -255,3 +255,15 @@
 
 # For Loops
 
+# for i in range (10,0,-1) :
+#     print(i)
+# for i in "pankaj" :
+#     print(i)
+ 
+curr_pop = 10000
+
+# for i in range (10,0,-1) :
+#     print (i,curr_pop)
+#     curr_pop = curr_pop - .1 * curr_pop
+
+print(.1 * 10000)c
